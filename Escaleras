@@ -1,3 +1,6 @@
+#CÓDIGO EN PYTHON
+#RESOLUCIÓN MANERAS POSIBLES DE SUBIR UNA ESCALERA 
+
 import itertools
 import os
 
